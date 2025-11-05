@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/DaanJansen94/lassa_partitioner
+git clone https://github.com/DaanJansen94/lassa_partitioner.git
 cd lassa_partitioner
 pip install -e .
 ```

@@ -31,7 +31,7 @@ This tool identifies positions with evidence of APOBEC3 conversion activity (var
 
 3. Clone and install LassaPartitioner:
    ```bash
-   git clone https://github.com/DaanJansen94/lassa_partitioner
+   git clone https://github.com/DaanJansen94/lassa_partitioner.git
    cd lassa_partitioner
    pip install -e .
    ```
