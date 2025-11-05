@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.stats.txt
+*.fasta
+*.fa
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
